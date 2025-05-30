@@ -4,7 +4,7 @@
   --font-accent: "PressStart2P";
   --article-header-weight: 700;
   --article-main-weight: 400;
-  --header-width: clamp(375px, 50vw, 1440px);
+  --header-width: clamp(23.4375rem, 16.2852rem + 30.5164vw, 43.75rem);
   --themes-background-color: #ffffff;
   --themes-main-color: #000000;
   --background-gradient: repeating-linear-gradient(
